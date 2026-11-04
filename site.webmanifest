@@ -1,0 +1,20 @@
+{
+ "name": "Englewood Pro Plumbing",
+ "short_name": "Englewood Pro",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#EFE9DF",
+ "theme_color": "#A5532E",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
